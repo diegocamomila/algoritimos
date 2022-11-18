@@ -20,3 +20,8 @@ $ python3 -m pytest
 $ python3 -m pytest -k nome_da_func_de_tests
 3 - Para executar um teste específico de um arquivo, basta executar o comando:
 $ python -m pytest -x tests/nome_do_arquivo.py::test_nome_do_teste
+
+Requisitos
+2 - pytest.raises
+https://docs.pytest.org/en/7.1.x/how-to/assert.html
+3 -
