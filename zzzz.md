@@ -24,4 +24,5 @@ $ python -m pytest -x tests/nome_do_arquivo.py::test_nome_do_teste
 Requisitos
 2 - pytest.raises
 https://docs.pytest.org/en/7.1.x/how-to/assert.html
-3 -
+3 - exemplos de resoluçao
+https://stackoverflow.com/questions/952110/recursive-function-palindrome-in-python
