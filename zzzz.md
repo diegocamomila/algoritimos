@@ -26,3 +26,6 @@ Requisitos
 https://docs.pytest.org/en/7.1.x/how-to/assert.html
 3 - exemplos de resoluçao
 https://stackoverflow.com/questions/952110/recursive-function-palindrome-in-python
+4-
+https://www.alura.com.br/artigos/algoritmo-quicksort-implementar-python?gclid=CjwKCAiAmuKbBhA2EiwAxQnt7-Zn7sfECko-5NfrdvBGyEzkGiJ2LBu312TFLMKvue-dYVqsFhBBAxoChg4QAvD_BwE
+https://wiki.python.org.br/QuickSort
